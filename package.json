@@ -5,7 +5,7 @@
   "main": "home.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "home.html"
+    "build": "open home.html"
   },
   "author": "",
   "license": "ISC"
